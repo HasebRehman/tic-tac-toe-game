@@ -37,27 +37,63 @@ tic-tac-toe/
 
 ## ▶️ How to Use This Project
 
-Follow the steps below to run this project locally:
+Follow these instructions to run the Tic Tac Toe game on your computer:
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Open Terminal / Command Prompt
+
+- **Windows:** Press `Win + R`, type `cmd` or open **PowerShell**, and press Enter  
+- **Mac / Linux:** Open **Terminal**
+
+---
+
+### 2️⃣ Navigate to the Folder Where You Want the Code
+
+Choose a location where you want to download the project. For example, to use Desktop:
+
+```bash
+cd Desktop
+```
+
+> Replace `Desktop` with any folder path you prefer.
+
+---
+
+### 3️⃣ Clone the Repository
+
+Run the following command to download the project from GitHub:
 
 ```bash
 git clone https://github.com/HasebRehman/tic-tac-toe-game.git
 ```
 
-### 2️⃣ Navigate to the Project Folder
+This will create a folder named `tic-tac-toe-game` with all the project files.
+
+---
+
+### 4️⃣ Navigate to the Project Folder
 
 ```bash
-cd tic-tac-toe
+cd tic-tac-toe-game
 ```
 
-### 3️⃣ Run the Game
+---
 
-- Open the `index.html` file in any modern web browser  
-  **OR**
-- Double-click the `index.html` file  
+### 5️⃣ Run the Game
 
-The Tic Tac Toe game will start immediately.
+- Open the `index.html` file in **any modern web browser** (Chrome, Edge, Firefox)  
+  **OR**  
+- Simply double-click the `index.html` file  
+
+The Tic Tac Toe game will start immediately ✅
+
+---
+
+### 6️⃣ Alternative (If Git is Not Installed)
+
+- Go to the GitHub repository: [https://github.com/HasebRehman/tic-tac-toe-game](https://github.com/HasebRehman/tic-tac-toe-game)  
+- Click **Code → Download ZIP**  
+- Extract the ZIP file to any folder  
+- Open `index.html` in your browser
 
 ---
 
